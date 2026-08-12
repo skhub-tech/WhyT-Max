@@ -1,9 +1,3 @@
-{
-    "Title": "Update Available⚡",
-    "versionCode": "2147483648",
-    "versionName": "21.29.367",
-    "updateSize": "126MB",
-    "releaseDate": "30/07/26",
-    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-    "downloadLink": "https://telegram.me/SkTech_000/436"
-}
+{"version":37,
+"downloadLink":"https://example.com/app.apk",
+"changelog":"- Bug fixes\n- New features\n- Performance improvements"}
